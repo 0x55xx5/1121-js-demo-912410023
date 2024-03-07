@@ -1,0 +1,10 @@
+let c,f;
+c=prompt("enter a number:");
+c=Number(c);
+c.toFixed(2);
+console.log(c);
+f=(c*9/5+32).toFixed(2);
+const op=`${f} F==${c} C`;
+console.log(op);
+const res=document.querySelector('.tp_result');
+res.textContent=op;
