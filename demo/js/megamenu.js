@@ -49,5 +49,11 @@ function showdemo(week) {
         case '1122w4p6':
             p.innerHTML = `<iframe src="./week4/p6/index.html" width="100%" height="100%" />`;
             break;
+            case '1122w5':
+                p.innerHTML = `<iframe src="./week5/theme/index.html" width="100%" height="100%" />`;
+                break;
+                case 'xx':
+                    p.innerHTML = `<iframe src="./week4/p6/index.html" width="100%" height="100%" />`;
+                    break;
     }
 }
