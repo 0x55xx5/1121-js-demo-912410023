@@ -9,6 +9,9 @@ GITHUB :
 ![](w04-p1-1.png)
  
 ![](w04-p1-2.png)
+```
+62a1891 912410023       Sun Mar 17 19:53:41 2024 +0800  W04-P1: P4_xx -- Counter Demo
+```
 
 ### W04-P2: P5_23 -- Tours display two fixed data
 
