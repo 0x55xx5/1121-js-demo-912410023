@@ -1,8 +1,16 @@
 import { menu } from '../data/d.js';
 console.log(menu);
 const cat = ['all', 'breakfast', 'lunch', 'dinner'];
+const set1=new Set(menu.map((ite)=>{
+  return ite.category;
+}));
+console.log(set1);
+const categ=['all',...set1]
+console.log(categ);
+
+
 const showBtn = () => {
-  const catHtml = cat
+  const catHtml = categ
     .map((itm) => {
       const content = `
         <button type="button" class="filter-btn" data-id="${itm}">
