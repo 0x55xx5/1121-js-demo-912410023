@@ -1,0 +1,31 @@
+c52bb55	912410023	Sun Mar 31 19:48:34 2024 +0800	W06-P4: implement open modals
+f380614	912410023	Thu Mar 28 20:04:27 2024 +0800	W06-P1: Create categories dynamically from data_xx.js
+bfd85de	912410023	Sun Mar 24 22:01:04 2024 +0800	add pdf
+2328852	912410023	Sun Mar 24 21:58:15 2024 +0800	 W05-P3: Display Menu Items from menu json array on both local and Vercel
+f90ccdb	912410023	Sun Mar 24 21:52:32 2024 +0800	 W05-P2: Show W05-P1 in Vercel, add github and globe icons for Github and Vercel
+7ff30cd	912410023	Sun Mar 24 21:50:24 2024 +0800	update
+ca0af4b	912410023	Sun Mar 24 21:38:17 2024 +0800	update
+07a7f63	912410023	Sun Mar 24 21:23:53 2024 +0800	W05-P1: Use megamenu to show class demo w1~W4 locally
+6b01d18	Your Name	Thu Mar 21 20:54:50 2024 +0800	add btns
+62a1891	912410023	Sun Mar 17 19:53:41 2024 +0800	W04-P1: P4_xx -- Counter Demo
+0bcbd16	Your Name	Thu Mar 14 21:20:47 2024 +0800	md
+9b68eae	Your Name	Thu Mar 14 21:20:15 2024 +0800	W04-P4: P6_xx -- BMI Compute with Suggestion
+6b52fe2	Your Name	Thu Mar 14 20:15:35 2024 +0800	W04-P3: P5_23 -- Display 5 tours from data_23.js (json array)
+8a105aa	Your Name	Thu Mar 14 20:01:43 2024 +0800	W04-P2: P5_23 -- Tours display two fixed data
+de3500d	912410023	Thu Mar 7 20:52:14 2024 +0800	add pdf
+b3ca69c	912410023	Thu Mar 7 20:50:41 2024 +0800	W03-P4: Compute highest and lowest score of sdata and students2
+194fc89	912410023	Thu Mar 7 20:11:26 2024 +0800	  W03-P3: import sdata and students data from data_xx.js
+5f8536d	912410023	Thu Mar 7 19:44:41 2024 +0800	### W03-P2: P2_xx temperature convert using Web
+874ff14	912410023	Thu Mar 7 19:11:20 2024 +0800	 ### W03-P1: P1_xx temperature convert
+d9b6801	912410023	Thu Feb 29 21:38:48 2024 +0800	add pdf
+397b2e7	912410023	Thu Feb 29 21:38:22 2024 +0800	add pdf
+fea25e6	912410023	Thu Feb 29 21:36:10 2024 +0800	add pdf
+ab81eb9	912410023	Thu Feb 29 21:28:59 2024 +0800	W02-P3: implment checkWin(player), and winMessage(player)
+1861fce	912410023	Thu Feb 29 21:26:58 2024 +0800	Video: ### W02-P2: implement reset button
+7f6984b	912410023	Thu Feb 29 19:34:02 2024 +0800	### W02-P1: Show Tictactoe css
+1580448	kkk	Fri Feb 23 17:17:23 2024 +0800	'update'
+40cd467	Your Name	Thu Feb 22 21:19:51 2024 +0800	testdebug
+eb39702	Your Name	Thu Feb 22 19:41:52 2024 +0800	test
+e483993	K. U	Thu Feb 22 19:38:13 2024 +0800	Merge pull request #1 from 0x55xx5/master
+6497c07	Your Name	Thu Feb 22 19:37:17 2024 +0800	init
+3959064	K. U	Thu Feb 22 19:35:39 2024 +0800	Initial commit
