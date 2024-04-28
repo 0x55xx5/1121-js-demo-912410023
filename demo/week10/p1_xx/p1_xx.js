@@ -1,4 +1,7 @@
-import { products_xx, all_products_xx } from './p1_data_xx.js';
+//import { products_xx, all_products_xx } from './p1_data_xx.js';
+
+
+let product_23=[];
 
 const productContainer = document.querySelector('.products-container');
 
