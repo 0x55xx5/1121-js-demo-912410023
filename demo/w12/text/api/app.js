@@ -1,6 +1,7 @@
 
-
+const btn=document.getElementById('btn');
 function getData(){
+    
     const xhr=new XMLHttpRequest();
     xhr.open('GET','./1.txt',true);
     xhr.onreadystatechange=function(){
@@ -14,9 +15,10 @@ function getData(){
             console.log("ex:"+xhr.statusText); 
         }
     }
+    
     xhr.send();
 }
-const btn=document.getElementById('btn');
+
 btn.addEventListener('click',getData);
 /*
 
