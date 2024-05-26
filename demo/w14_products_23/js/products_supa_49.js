@@ -1,6 +1,6 @@
 import { _supabase } from './clientSupabase_49.js';
 
-let products_49 = [];
+let products_23 = [];
 
 const getProductsSupabase_49 = async () => {
   try {
@@ -14,7 +14,7 @@ const getProductsSupabase_49 = async () => {
 
 const productContainer = document.querySelector('.products-container');
 
-console.log('products_49', products_49);
+console.log('products_23', products_23);
 const displayProducts = (products) => {
   let productsContent = products
     .map((product) => {
@@ -40,6 +40,6 @@ const displayProducts = (products) => {
 };
 
 document.addEventListener('DOMContentLoaded', async () => {
-  products_49 = await getProductsSupabase_49();
-  displayProducts(products_49);
+  products_23 = await getProductsSupabase_49();
+  displayProducts(products_23);
 });

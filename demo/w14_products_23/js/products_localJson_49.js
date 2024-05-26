@@ -1,6 +1,6 @@
 const url = './api/data/0.json';
 
-let products_49 = [];
+let products_23 = [];
 
 const productContainer = document.querySelector('.products-container');
 
@@ -15,7 +15,7 @@ const fetchData = async (url) => {
   }
 };
 
-console.log('products_49', products_49);
+console.log('products_23', products_23);
 
 const DisplayProducts = (products) => {
   let productsContent = products
@@ -43,6 +43,6 @@ const DisplayProducts = (products) => {
 };
 
 document.addEventListener('DOMContentLoaded', async () => {
-  products_49 = await fetchData(url);
-  DisplayProducts(products_49);
+  products_23 = await fetchData(url);
+  DisplayProducts(products_23);
 });
