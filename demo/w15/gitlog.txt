@@ -1,0 +1,32 @@
+bad9533	tkushao	Sun Mar 31 18:24:10 2024 +0800	### W06-P5: implement close modals
+77c5d87	tkushao	Thu Mar 28 22:03:17 2024 +0800	### W06-P2: Display Menu buttons from categories array
+778f579	tkushao	Thu Mar 28 22:02:36 2024 +0800	### W06-P3: implement filter buttons
+402a32c	tkushao	Thu Mar 28 21:34:30 2024 +0800	### W06-P4: implement open modals
+465001c	tkushao	Thu Mar 28 19:51:59 2024 +0800	### W06-P1: Create categories dynamically from data_xx.js
+622ea74	tkushao	Thu Mar 21 21:25:27 2024 +0800	### W05-P4: Display Menu buttons from categories array (do it by yourself)
+f882751	tkushao	Thu Mar 21 21:01:24 2024 +0800	### W05-P2: Show W05-P1 in Vercel, add github and globe icons for Github and Vercel
+d7c8d3d	tkushao	Thu Mar 21 20:45:17 2024 +0800	### W05-P3: Display Menu Items from menu json array on both local and Vercel
+97f6235	tkushao	Thu Mar 21 19:34:03 2024 +0800	### W05-P1: Use megamenu to show class demo w1~W4 locally
+9f59256	tkushao	Thu Mar 21 19:21:51 2024 +0800	add git hub and globe icon.
+bd5ef38	tkushao	Thu Mar 14 21:21:45 2024 +0800	### W04-P5: git logs for W04
+a188c34	tkushao	Thu Mar 14 21:20:34 2024 +0800	### W04-P4: P6_xx -- BMI Compute with Suggestion
+5d5013f	tkushao	Thu Mar 14 20:21:56 2024 +0800	### W04-P3: P5_xx -- Display 5 tours from data_xx.js (json array)
+387ec26	tkushao	Thu Mar 14 19:58:21 2024 +0800	### W04-P2: P5_xx -- Tours display two fixed data
+5c7c91c	tkushao	Thu Mar 14 19:06:30 2024 +0800	### W04-P1: P4_xx -- Counter Demo
+c68f383	tkushao	Thu Mar 7 22:50:23 2024 +0800	### W03-P5: git logs for W03
+c40cdf9	tkushao	Thu Mar 7 22:49:17 2024 +0800	### W03-P2: P2_xx temperature convert using Web
+f39481b	tkushao	Thu Mar 7 20:56:02 2024 +0800	### W03-P4: Compute highest and lowest score of sdata and students2
+7d188ef	tkushao	Thu Mar 7 20:11:53 2024 +0800	### W03-P3: import sdata and students data from data_xx.js
+5230043	tkushao	Thu Mar 7 19:12:52 2024 +0800	### W03-P1: P1_xx temperature convert
+692e17b	tkushao	Thu Feb 29 21:01:55 2024 +0800	My Github URL
+09a3abf	tkushao	Thu Feb 29 20:57:33 2024 +0800	git log --pretty=format:%h%x09%an%x09%ad%x09%s --after=2024-02-28
+9e00430	tkushao	Thu Feb 29 20:56:20 2024 +0800	### W02-P3: implment checkWin(player), and winMessage(player)
+42edae4	tkushao	Thu Feb 29 19:58:15 2024 +0800	### W02-P2: implement reset button
+ae8c351	tkushao	Thu Feb 29 19:02:18 2024 +0800	### W02-P1: Show Tictactoe css
+6c66f23	tkushao	Thu Feb 22 21:31:29 2024 +0800	### W01-P6: git logs for W01
+0748f16	tkushao	Thu Feb 22 21:23:54 2024 +0800	### W01-P5: implement divide function
+e337e01	tkushao	Thu Feb 22 21:19:12 2024 +0800	### W01-P4: implement multiply function
+05e7289	tkushao	Thu Feb 22 21:13:50 2024 +0800	### W01-P3: implement subtract function
+76f0d5f	tkushao	Thu Feb 22 21:02:43 2024 +0800	### W01-P2: implement add function
+5094de8	tkushao	Thu Feb 22 19:37:43 2024 +0800	W01-P1: Show the w01-dom title
+722c48b	tkushao	Thu Feb 22 19:34:23 2024 +0800	W01-P1: Show the w01-dom title

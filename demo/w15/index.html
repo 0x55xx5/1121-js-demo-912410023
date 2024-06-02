@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Syahrizaldev" />
+    <title>Responsive Mega Menu Example</title>
+    <link rel="stylesheet" type="text/css" href="./css/reset.min_23.css" />
+    <link rel="stylesheet" type="text/css" href="./css/megamenu_23.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.6.3/css/ionicons.min.css"
+    />
+    <link rel="stylesheet" href="./css/style_demo_23.css" />
+  </head>
+
+  <body>
+    <!-- Section: Header -->
+    <header class="header">
+      <div class="container">
+        <div class="wrapper">
+          <div class="header-item-left">
+            <h1><a href="./index.html" class="brand">KKK_23</a></h1>
+          </div>
+          <!-- Section: Navbar Menu -->
+          <div class="header-item-center">
+            <div class="overlay"></div>
+            <nav class="menu">
+              <div class="menu-mobile-header">
+                <button type="button" class="menu-mobile-arrow">
+                  <i class="ion ion-ios-arrow-back"></i>
+                </button>
+                <div class="menu-mobile-title"></div>
+                <button type="button" class="menu-mobile-close">
+                  <i class="ion ion-ios-close"></i>
+                </button>
+              </div>
+              <ul class="menu-section">
+                <li class="menu-item-has-children">
+                  <a href="#"
+                    >Projects
+                    <i class="ion ion-ios-arrow-down">
+                      <ion-icon name="chevron-forward-outline"></ion-icon> </i
+                  ></a>
+                  <div class="menu-subs menu-mega menu-column-4">
+                    <div class="list-item text-center" onclick ="showdemo('project')">
+                      <a href="#">
+                        <img
+                          src="https://ifafquhvqbvtxtzaghzf.supabase.co/storage/v1/object/public/demo_xx/products_xx/product-1.jpg"
+                          class="responsive"
+                          alt="New Product"
+                        />
+                        <h4 class="title">P1: products</h4>
+                      </a>
+                    </div>
+
+                  </div>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="#"
+                    >What's New
+                    <i class="ion ion-ios-arrow-down">
+                      <ion-icon name="chevron-forward-outline"></ion-icon> </i
+                  ></a>
+                  <div class="menu-subs menu-mega menu-column-4">
+                    <div class="list-item text-center">
+                      <a href="#">
+                        <img
+                          src="https://source.unsplash.com/fH9BA9vHSUQ/361x467"
+                          class="responsive"
+                          alt="New Product"
+                        />
+                        <h4 class="title">Product 1</h4>
+                      </a>
+                    </div>
+                    <div class="list-item text-center">
+                      <a href="#">
+                        <img
+                          src="https://source.unsplash.com/Wa6KJdX2Sy8/361x467"
+                          class="responsive"
+                          alt="New Product"
+                        />
+                        <h4 class="title">Product 2</h4>
+                      </a>
+                    </div>
+                    <div class="list-item text-center">
+                      <a href="#">
+                        <img
+                          src="https://source.unsplash.com/yA734O2nuSc/361x467"
+                          class="responsive"
+                          alt="New Product"
+                        />
+                        <h4 class="title">Product 3</h4>
+                      </a>
+                    </div>
+                    <div class="list-item text-center">
+                      <a href="#">
+                        <img
+                          src="https://source.unsplash.com/sps2BCqU4eg/361x467"
+                          class="responsive"
+                          alt="New Product"
+                        />
+                        <h4 class="title">Product 4</h4>
+                      </a>
+                    </div>
+                  </div>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="#"
+                    >Class Demo <i class="ion ion-ios-arrow-down"></i
+                  ></a>
+                  <div class="menu-subs menu-mega menu-column-4">
+                    <div class="list-item">
+                      <h4 class="title">Week 1 ~ 2 -- DOM INTRO</h4>
+                      <ul>
+                        <li onclick="showdemo('w1')">
+                          <a href="#">w1-DOM demo</a>
+                        </li>
+                        <li onclick="showdemo('w2')">
+                          <a href="#">w2-TicTacToe Game</a>
+                        </li>
+                      </ul>
+
+                      <h4 class="title">Week 3 - Basics</h4>
+                      <ul>
+                        <li onclick="showdemo('w3-P1')">
+                          <a href="#">w3-P1_23-c2f</a>
+                        </li>
+                        <li onclick="showdemo('w3-P2')">
+                          <a href="#">w3-P2_23-cf-dom</a>
+                        </li>
+                        <li onclick="showdemo('w3-P3')">
+                          <a href="#">w3-P3_23-array</a>
+                        </li>
+                      </ul>
+                      <h4 class="title">Week 4 - Basics2</h4>
+                      <ul>
+                        <li onclick="showdemo('w4-P4')">
+                          <a href="#">w4-P4_23-counter</a>
+                        </li>
+                        <li onclick="showdemo('w4-P5')">
+                          <a href="#">w4-P5_23-tour</a>
+                        </li>
+                        <li onclick="showdemo('w4-P6')">
+                          <a href="#">w4-P6_23-bmi</a>
+                        </li>
+                      </ul>
+                    </div>
+                    <div class="list-item">
+                      <h4 class="title">week 5 ~ 9</h4>
+                      <ul>
+                        <li onclick="showdemo('w5')"><a href="#">w5-Menu</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                      </ul>
+                      <h4 class="title">Mid21 Exam</h4>
+                      <ul>
+                        <li onclick="showdemo('mid21-p1_23')"><a href="#">p1_23: Products Demo</a></li>
+                        <li onclick="showdemo('mid21-p2_23')"><a href="#">p2_23: DOM -- BMI Calc</a></li>
+                        <li onclick="showdemo('mid21-p3_23')"><a href="#">p3_23: DOM -- TKU60</a></li>
+                      </ul>
+                    </div>
+                    <div class="list-item">
+                      <h4 class="title">Home & Lifestyle</h4>
+                      <ul>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                        <li><a href="#">Product List</a></li>
+                      </ul>
+                    </div>
+                    <div class="list-item">
+                      <img
+                        src="https://source.unsplash.com/dWyXjbac4tc/361x467"
+                        class="responsive"
+                        alt="Shop Product"
+                      />
+                    </div>
+                  </div>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="#"
+                    >Articles <i class="ion ion-ios-arrow-down"></i
+                  ></a>
+                  <div class="menu-subs menu-column-1">
+                    <ul>
+                      <li><a href="#">Article One</a></li>
+                      <li><a href="#">Article Two</a></li>
+                      <li><a href="#">Article Three</a></li>
+                      <li><a href="#">Article Four</a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li class="menu-item-has-children">
+                  <a href="#"
+                    >Accounts <i class="ion ion-ios-arrow-down"></i
+                  ></a>
+                  <div class="menu-subs menu-column-1">
+                    <ul>
+                      <li><a href="#">Login and Register</a></li>
+                      <li><a href="#">Help and Question</a></li>
+                      <li><a href="#">Privacy and Policy</a></li>
+                      <li><a href="#">Term of Cookies</a></li>
+                    </ul>
+                  </div>
+                </li>
+                <li><a href="#">Contact</a></li>
+              </ul>
+            </nav>
+          </div>
+
+          <div class="header-item-right">
+            <a href="https://github.com/tkushao/1122-js-demo-49" class="menu-icon">
+            <ion-icon name="logo-github"></ion-icon>
+            </a>
+            <a href="https://1122-js-demo-49.vercel.app/" class="menu-icon">
+            <ion-icon name="globe"></ion-icon>
+            </a>
+            <button type="button" class="menu-mobile-trigger">
+              <span></span>
+              <span></span>
+              <span></span>
+              <span></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Section: Main -->
+    <div class="show-classdemo"></div>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <script src="./js/megamenu_23.js"></script>
+    <script src="./js/script_demo_23.js"></script>
+  </body>
+</html>
