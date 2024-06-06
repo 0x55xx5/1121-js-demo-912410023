@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7",
+    "local_img": "./images/photo-7.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-7.jpg",
+    "category": "travel",
+    "title": "sun rise from the mountain",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "8",
+    "local_img": "./images/photo-8.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-8.jpg",
+    "category": "travel",
+    "title": "serene lake with trees",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "9",
+    "local_img": "./images/photo-9.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-9.jpg",
+    "category": "travel",
+    "title": "rocks of queen head in Yehliu Taiwan",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "1",
+    "local_img": "./images/photo-1.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-1.jpg",
+    "category": "lifestyle",
+    "title": "why coffee is awesome",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "2",
+    "local_img": "./images/photo-2.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-2.jpg",
+    "category": "travel",
+    "title": "travel to paris",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "3",
+    "local_img": "./images/photo-3.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-3.jpg",
+    "category": "lifestyle",
+    "title": "coffee brings friendship",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "4",
+    "local_img": "./images/photo-4.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-4.jpg",
+    "category": "lifestyle",
+    "title": "coffee make you feel good",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "5",
+    "local_img": "./images/photo-5.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-5.jpg",
+    "category": "lifestyle",
+    "title": "coffee make you calm",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": "6",
+    "local_img": "./images/photo-6.jpg",
+    "remote_img": "https://uuajoijttulpqajssxwg.supabase.co/storage/v1/object/public/images/card_demo/photo-6.jpg",
+    "category": "travel",
+    "title": "101 tower in Taipei",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  }
+]
