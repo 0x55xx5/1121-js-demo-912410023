@@ -343,7 +343,7 @@ category_f2_xx SQL 指令老師會提供，請先執行，再進行本題
 ##### => git log
 
 ```
-
+d6a8aa3 Your Name       Thu Jun 13 21:15:49 2024 +0800  p4
 ```
 
 ---
